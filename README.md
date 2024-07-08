@@ -61,3 +61,15 @@ P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _
  p    q    r    s    t    u    v    w    x    y    z    {    |    }    ~   DEL
 ```
 
+End of Line (Newline) Characters
+-----------
+```
+Windows:
+\r \n  CR LF (Carriage Return, Line Feed) = 0d 0a  (decimal 13, 10)
+
+Unix / Linux:
+\r CR 0d (decimal 13)
+
+Mac:
+\n LF 0a (decimal 10)
+```
